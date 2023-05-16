@@ -4,6 +4,6 @@
 
 *Function*
 
-text
+Merge should work now
 
-code 
+wrong wrong code 
