@@ -6,4 +6,4 @@
 
 Text
 
-New code
+New conflict
