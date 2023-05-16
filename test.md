@@ -4,6 +4,6 @@
 
 *Function*
 
-Merge
+Merge should work now
 
-wrong
+wrong wrong wrong
