@@ -4,6 +4,6 @@
 
 *Function*
 
-Text
+Merge
 
-New conflict
+wrong
